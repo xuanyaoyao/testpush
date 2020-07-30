@@ -11,7 +11,7 @@ export default {
   },
   data () {
     return {
-      msg: '宣瑶瑶'
+      msg: '宣瑶44瑶'
     }
   },
   methods: {
